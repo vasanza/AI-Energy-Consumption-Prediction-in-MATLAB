@@ -28,7 +28,7 @@ This MATLAB repository offers a collection of codes dedicated to predicting ener
 # Keynote
 ## Clone
 - git status
-- git clone https://github.com/vasanza/EnergyConsumptionPrediction.git
+- git clone https://github.com/vasanza/AI-Energy-Consumption-Prediction-in-MATLAB.git
 ## Switched to Branch
 - git branch
 - git checkout NameBranch
