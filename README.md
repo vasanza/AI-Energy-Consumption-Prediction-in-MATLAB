@@ -1,4 +1,10 @@
 # AI-Energy-Consumption-Prediction-in-MATLAB
+This MATLAB repository offers a collection of codes dedicated to predicting energy consumption using artificial intelligence techniques. These scripts and programs provide tools to develop accurate and efficient predictive models estimating energy usage. From machine learning algorithms to neural networks and advanced data processing methods, this compilation provides essential resources for researchers, students, and professionals interested in precisely predicting energy consumption using AI techniques within the MATLAB environment.
+
+- Variables independientes (x1,....,xn): Energía, Voltaje......,etc. en t=t0 (Valor actual)
+- Variable dependiente (f(x)): Energía en t=to+dt (Valor siguiente); dt=1seg
+- Frecuencia de muestreo de los datos: 1 muestra por segundo (sps)
+- Venta temporal de predicción: (dt=1día)
 
 ![PlotData](https://user-images.githubusercontent.com/12642226/146457419-5fc2353d-1ba6-47a3-909a-08c84e34458b.jpg)
 
